@@ -7,6 +7,9 @@ Projeto de um formulário de login com **tema claro e escuro**, usando HTML, CSS
 
 **[Ver Projeto Online](https://carolinersant.github.io/dark-light-form/)**
 
+## 📸 Demonstração
+Veja abaixo uma demonstração do formulário em ação:
+
 ![Formulário](assets/form.gif)
 
 ## 🚀 Funcionalidades
@@ -14,7 +17,8 @@ Projeto de um formulário de login com **tema claro e escuro**, usando HTML, CSS
 -  Troca entre tema claro e escuro
 -  Formulário de login com campos para nome, e-mail e senha
 -  Ícones para login rápido com Facebook, Google e GitHub
--  Design moderno e responsivo
+- Interface moderna e responsiva
+- Animação suave no background e elementos
 
 ## 🛠️ Tecnologias Utilizadas
 
