@@ -7,7 +7,7 @@ Projeto de um formulário de login com **tema claro e escuro**, usando HTML, CSS
 
 **[Ver Projeto Online](https://carolinersant.github.io/dark-light-form/)**
 
-![Formulário Dark Mode](assets/form.gif)
+![Formulário Dark Mode](c:\Users\Caroline\Desktop\dark-light-form\assets\form.gif)
 
 ## 🚀 Funcionalidades
 
